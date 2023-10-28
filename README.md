@@ -1,1 +1,1 @@
-# smoke effect project using html & css
+# clickable calculator project using html,css& js
